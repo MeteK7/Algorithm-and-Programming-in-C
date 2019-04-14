@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489661038 source:c:\users\kaba\desktop\c programs\loop 13 - reversing a series of numbers (for)\main.c
+	<stdio.h>
+	<stdlib.h>
+

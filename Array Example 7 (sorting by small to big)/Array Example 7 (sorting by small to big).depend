@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488216239 source:c:\users\kaba\desktop\c programs\array example 7 (sorting by small to big)\main.c
+	<stdio.h>
+	<stdlib.h>
+

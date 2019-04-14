@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496096597 source:c:\users\kaba\desktop\c programs\strings example-1 (character amount)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

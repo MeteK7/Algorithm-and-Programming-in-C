@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491682169 source:c:\users\kaba\desktop\c programs\an example of berk\main.c
+	<stdio.h>
+	<stdlib.h>
+

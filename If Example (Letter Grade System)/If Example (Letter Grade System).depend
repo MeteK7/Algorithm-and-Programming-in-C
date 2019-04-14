@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488751796 source:c:\users\kaba\desktop\c programs\if example (letter grade system)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

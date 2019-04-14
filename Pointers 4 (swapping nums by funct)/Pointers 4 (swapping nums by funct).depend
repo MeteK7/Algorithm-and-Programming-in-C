@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1494712873 source:c:\users\kaba\desktop\c programs\pointers 4 (swapping nums by funct)\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487458173 source:c:\users\kaba\desktop\c programs\array example 6 (finding kth largest number)\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1486502653 source:c:\users\kaba\desktop\c programs\perfect number 2\main.c
+	<stdlib.h>
+	<stdio.h>
+

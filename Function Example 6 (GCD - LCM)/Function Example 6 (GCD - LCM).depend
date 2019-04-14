@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1489925497 source:c:\users\kaba\desktop\c programs\function example 6 (gcd - lcm)\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1500150546 source:d:\c programs\function example 6 (gcd - lcm)\main.c
+	<stdio.h>
+	<stdlib.h>
+

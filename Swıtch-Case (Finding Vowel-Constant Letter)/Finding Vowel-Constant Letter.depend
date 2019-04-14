@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1486676917 source:c:\users\kaba\desktop\c programs\finding vowel-constant letter\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1491163960 source:c:\users\kaba\desktop\c programs\swýtch-case (finding vowel-constant letter)\main.c
+	<stdio.h>
+	<stdlib.h>
+

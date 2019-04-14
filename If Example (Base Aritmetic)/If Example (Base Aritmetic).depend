@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488479534 source:c:\users\kaba\desktop\c programs\if example (base aritmetic)\main.c
+	<stdio.h>
+	<stdlib.h>
+

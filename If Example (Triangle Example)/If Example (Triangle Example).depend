@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488749981 source:c:\users\kaba\desktop\c programs\if example (triangle example)\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1496230163 source:d:\c programs\if example (triangle example)\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1500154259 source:d:\c programs\pointers 7 (gcd-lcm funct. call by reference recursion)\main.c
+	<stdio.h>
+	<stdlib.h>
+

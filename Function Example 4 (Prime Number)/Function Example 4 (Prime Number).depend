@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489794458 source:c:\users\kaba\desktop\c programs\function example 4 (prime number)\main.c
+	<stdio.h>
+	<stdlib.h>
+

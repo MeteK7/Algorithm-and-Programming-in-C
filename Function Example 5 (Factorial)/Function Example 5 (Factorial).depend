@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489797242 source:c:\users\kaba\desktop\c programs\function example 5 (factorial)\main.c
+	<stdio.h>
+	<stdlib.h>
+

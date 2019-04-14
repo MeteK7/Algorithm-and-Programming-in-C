@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487453054 source:c:\users\kaba\desktop\c programs\array example 4 (finding duplicate numbers)\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1496086835 source:c:\users\kaba\desktop\c programs\strings 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1496333950 source:d:\c programs\strings 1\main.c
+	<stdio.h>
+	<stdlib.h>
+

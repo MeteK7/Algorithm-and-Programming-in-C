@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1490628515 source:c:\users\kaba\desktop\c programs\function example 10 - factorial (recursion)\main.c
+	<stdio.h>
+	<stdlib.h>
+

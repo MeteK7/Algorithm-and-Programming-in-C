@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1488492212 source:c:\users\kaba\desktop\c programs\matrix transpose\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1488492212 source:c:\users\kaba\desktop\c programs\array example 10 (matrix transpose)\main.c
+	<stdio.h>
+	<stdlib.h>
+

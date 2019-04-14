@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491655765 source:c:\users\kaba\desktop\c programs\an example of taylan\main.c
+	<stdio.h>
+	<stdlib.h>
+

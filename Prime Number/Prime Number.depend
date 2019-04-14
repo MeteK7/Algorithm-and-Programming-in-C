@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1524525677 source:c:\users\kaba\desktop\c programs\prime number\main.c
+	<stdio.h>
+	<stdlib.h>
+

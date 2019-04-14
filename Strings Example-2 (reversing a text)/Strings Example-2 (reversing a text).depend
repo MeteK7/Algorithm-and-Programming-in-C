@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496332017 source:c:\users\kaba\desktop\c programs\strings example-2 (reversing a text)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

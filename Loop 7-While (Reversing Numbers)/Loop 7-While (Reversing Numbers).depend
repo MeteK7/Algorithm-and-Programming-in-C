@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489346847 source:c:\users\kaba\desktop\c programs\loop 7-while (reversing numbers)\main.c
+	<stdio.h>
+	<stdlib.h>
+
