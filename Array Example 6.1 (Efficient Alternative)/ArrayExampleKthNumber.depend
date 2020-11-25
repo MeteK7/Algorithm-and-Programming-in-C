@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606321454 source:c:\users\metek\desktop\arrayexample6efficientalternative\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606323356 source:c:\lessons\c programs\array example 6.1 (efficient alternative)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

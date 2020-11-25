@@ -2,7 +2,9 @@
 #include <stdlib.h>
 
 int main()	/*This program finds kth largest number in an array.*/
-{
+{		/*We cannot set the arrray size dynamically in VS because the compiler gives an error.
+		  That's why 200 is given as a default size of the array "number". It is better to use CodeBlock to get rid of this error.*/
+
 	int amount, number[200], temp, row;
 	printf("Enter the amount of numbers you will enter: ");
 	scanf("%d", &amount);
